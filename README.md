@@ -17,5 +17,5 @@ Sample [.png](star_chart_sine.png) and [.pdf](star_chart_sine.pdf) star charts a
     * German [paper](https://www.image-engineering.de/content/library/diploma_thesis/anke_neumann_aufloesungsmessung.pdf), English [equivalent](https://image-engineering.de/content/library/conference_papers/2007_03_12/EI_2007_6502_21.PDF)
     * https://www.imatest.com/docs/starchart/
     * Fatima Kahil's [Github page](https://fakahil.github.io/solo/how-to-use-the-siemens-star-calibration-target-to-obtain-the-mtf-of-an-optical-system/index.html)
-* [Article](https://lenspire.zeiss.com/photo/app/uploads/2018/04/CLN_MTF_Kurven_2_en.pdf) by Zeiss
+* Technical paper [part 1](https://web.archive.org/web/20210505015621/http://lenspire.zeiss.com/photo/app/uploads/2018/04/Article-MTF-2008-EN.pdf) and [part 2](https://web.archive.org/web/20210115235014/https://lenspire.zeiss.com/photo/app/uploads/2018/04/CLN_MTF_Kurven_2_en.pdf) by Zeiss
     
